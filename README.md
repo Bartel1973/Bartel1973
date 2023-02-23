@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bartel1973
-- 👀 I’m interested in programming, raspberry pi and jazz
-- 🌱 I’m currently learning python
+- 👀 I’m interested in programming, raspberry pi, Arduino and jazz
+- 🌱 I’m currently learning python and digging deeper into C++
 - 💞️ I’m looking to collaborate on wasp-os and pinetime
 - 📫 How to reach me via email
 
